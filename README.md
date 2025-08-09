@@ -15,7 +15,7 @@ This mini-project is built using basic **HTML**, **CSS**, and **JavaScript**, an
 ## 🛠️ Tech Stack
 - **HTML** – Page structure  
 - **CSS** – Styling and layout  
-- **JavaScript** – Voice recognition and response logic (Web S
+- **JavaScript** – Voice recognition and response logic 
 
 ## 🚀 How to Run
 1. Clone the repo:
