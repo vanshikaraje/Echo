@@ -36,7 +36,4 @@ Connect with APIs for smarter answers
 Deploy it online (e.g., GitHub Pages)
 
 🙋‍♀️ Made with ❤️ by Vanshika Rajput
-yaml
-Copy code
-
 ----
